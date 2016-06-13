@@ -1,3 +1,6 @@
 // Code here
 
-function x()
+var x = function()
+  {
+    console.log("Stuff");
+  }
